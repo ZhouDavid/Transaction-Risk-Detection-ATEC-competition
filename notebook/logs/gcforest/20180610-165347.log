@@ -1,0 +1,12 @@
+[ 2018-06-10 17:11:51,304][cascade_classifier.fit_transform] X_groups_train.shape=[(742504, 298)],y_train.shape=(742504,),X_groups_test.shape=no_test,y_test.shape=no_test
+[ 2018-06-10 17:15:27,803][cascade_classifier.fit_transform] X_groups_train.shape=[(742504, 298)],y_train.shape=(742504,),X_groups_test.shape=no_test,y_test.shape=no_test
+[ 2018-06-10 17:15:31,606][cascade_classifier.fit_transform] group_dims=[298]
+[ 2018-06-10 17:15:31,606][cascade_classifier.fit_transform] group_starts=[0]
+[ 2018-06-10 17:15:31,619][cascade_classifier.fit_transform] group_ends=[298]
+[ 2018-06-10 17:15:31,637][cascade_classifier.fit_transform] X_train.shape=(742504, 298),X_test.shape=(0, 298)
+[ 2018-06-10 17:16:04,819][cascade_classifier.fit_transform] X_groups_train.shape=[(742504, 298)],y_train.shape=(742504,),X_groups_test.shape=no_test,y_test.shape=no_test
+[ 2018-06-10 17:16:08,488][cascade_classifier.fit_transform] group_dims=[298]
+[ 2018-06-10 17:16:08,488][cascade_classifier.fit_transform] group_starts=[0]
+[ 2018-06-10 17:16:08,504][cascade_classifier.fit_transform] group_ends=[298]
+[ 2018-06-10 17:16:08,508][cascade_classifier.fit_transform] X_train.shape=(742504, 298),X_test.shape=(0, 298)
+[ 2018-06-10 17:16:12,781][cascade_classifier.fit_transform] [layer=0] look_indexs=[0], X_cur_train.shape=(742504, 298), X_cur_test.shape=(0, 298)

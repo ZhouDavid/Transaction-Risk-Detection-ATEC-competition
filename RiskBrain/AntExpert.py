@@ -83,7 +83,7 @@ class AntExpert:
 			self.test_data = self.scaler.transform(self.test_data)
 		self.train_x = self.train_data.drop(columns=['date','label'])
 		self.train_y = self.train_data.label
-		
+
 		if including_date:
 			self.train_x.date = self.train_data.date
 
